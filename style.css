@@ -2,3 +2,9 @@ body{
     background-color: mediumspringgreen;
     color:mediumpurple
 }
+header{
+    font-size: 45px;
+    color:dimgray;
+    border-bottom: solid 15px ghostwhite;
+    text-align: center;
+}
