@@ -8,3 +8,8 @@ header{
     border-bottom: solid 15px ghostwhite;
     text-align: center;
 }
+section{
+    display: flex;
+    background-color: aqua;
+    
+}
